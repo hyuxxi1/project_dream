@@ -8,10 +8,10 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Upstage Solar Chatbot",
-    page_icon="☀️"
+    page_icon="❤️"
 )
 
-st.title("☀️ Upstage Solar Chatbot")
+st.title("❤️ Upstage Solar Chatbot")
 
 
 # =========================================================
